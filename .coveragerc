@@ -1,0 +1,8 @@
+[run]
+omit = .env/*,
+       tests/*,
+       src/goex/app.py,
+       src/goex/celery_app.py,
+       src/goex/settings.py,
+       src/goex/apps/swagger/*,
+       src/goex/lib/logging.py
