@@ -10,7 +10,7 @@ requirements = (
     'pytz>=2015.4',
     'pymongo>=3.7.2',
     'cerberus==1.2',
-    'PyYAML==5.1',
+    'PyYAML==5.4',
     'future>=0.18.2'
 )
 
